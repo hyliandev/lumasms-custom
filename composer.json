@@ -1,6 +1,6 @@
 {
     "require": {
-        "twig/twig": "^2.6",
+        "twig/twig": "^3.11",
         "mustangostang/spyc": "^0.6.2",
         "ircmaxell/password-compat": "^1.0"
     }
